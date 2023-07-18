@@ -27,7 +27,6 @@
 
 ## General
 
-- [FRC Penultimate Manual](https://github.com/MC42/FRCPenultimateManual) - All-in-one manual for FRC teams and team members.
 - [The Blue Alliance](https://www.thebluealliance.com/) - FRC's leading event, team, and match tracker.
 - [The Compass Alliance](https://www.thecompassalliance.org/) - A resource for learning about all FRC topic, made for any level of experience.
 - [State Space Guide](https://github.com/calcmogul/state-space-guide) - A practical guide to state-space control: graduate-level control theory for high schoolers.
@@ -44,7 +43,6 @@
 
 ## Programming
 
-- [FRC Programming Done Right](http://frc-pdr.readthedocs.io/en/latest/) - Exhaustive and well-written guide to programming in FRC, the right way.
 - [WPILib ScreenSteps](https://wpilib.screenstepslive.com) - Old and unsupported documentation for hardware and officially supported software languages. For up to date, check below.
 - [WPILib Docs](https://docs.wpilib.org/en/latest/) - Up-to-date documentation on FRC hardware and software for 2020 and beyond.
 
@@ -54,8 +52,9 @@
 - [254 2016 Vision Talk](https://www.youtube.com/watch?v=rLwOkAJqImo) - The most complete lesson about vision tracking out there.
 - [2729 Storm Robotics Vision](https://github.com/2729StormRobotics/StormCV2017) - An example of using OpenCV and GRIP to create a vision system.
 - [Limelight](https://limelightvision.io/) - A plug-and-play vision solution built for FRC.
-- [ChickenVision](https://github.com/team3997/ChickenVision) - An easy to implement vision system created by Team 3997.
+- [ChickenVision](https://github.com/team3997/ChickenVision) - An easy to implement vision system created by Team 3997. (Deprecated)
 - [SERT Vision](https://github.com/SouthEugeneRoboticsTeam/vision) - A Jetson-powered OpenCV vision tracking solution, complete with status GUI and NetworkTable hooks.
+- [OpenSight](https://opensight-cv.github.io/) - A computer vision system targeted specifically for the Raspberry Pi.
 
 ## Scouting
 
